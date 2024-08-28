@@ -1,0 +1,34 @@
+My name is Saurabh Digambar Pable. I have completed my engineering in Mechanical Engineering from ISBM College of Engineering under Savitribai Phule Pune University. Before that, I completed my post-matrix diploma in mechanical engineering from Government Polytechnic Pune. I scored 83.40% in my 10th standard and 72% in my post-matrix diploma. After completing my diploma, I was admitted to engineering in the second year. In the second year, I got 76.1%, in the third year I got 81.8%, in the final year I got 74%. My aggregate percentage in engineering is 75%. My final year project in engineering is the Design, Analysis, and fabrication of Ladder Chassis. We are designing this chassis for the Hybrid electric vehicle. In the project, I designed multiple prototypes of chassis and analyzed them according to the requirements of the college. in our project, we used the Catia V5 software for creating the chassis and the Ansys workbench for analyzing the effect on the chassis after applying the loads. In CDAC my project is on the Property selling website. we developed a user-friendly online platform for buying and selling properties. The website facilitates seamless transactions between buyers and sellers, providing advanced search and filtering options, secure payment gateways, and interactive communication tools. Implemented features include property listings with detailed descriptions and photos, user authentication and profiles, integration with mapping services for accurate property locations, and feedback mechanisms for user reviews. My strengths are I am an honest, hard-working, self-motivated, adaptable, and quick learner. One of my weaknesses is public speaking. I am seeking opportunities to improve my public speaking abilities through practice and training. My hobbies are playing outdoor games, trekking, reading books, and trading. My achievements are I played kabaddi and kho-kho at district-level competitions and also participated in multiple science project exhibitions. I belong to the Neutral family. My short-term goal is to get a job in a reputed organization and my long-term goal is to achieve a good position where I can build my career and help the organization. In the meantime, I used to explore technology and languages. With the help of YouTube, I have learned the basics of programming. C is the first programming language I learned, then I got to know concepts of OOP, database, OS, frontend, backend, etc.
+I found it interesting and thought about making a career in this field. Then I came to know about CDAC and decided to make an official entry in this industry.
+I have learned many technologies till date and am getting in-depth knowledge of REACT, Spring Boot, and MySQL.
+
+
+
+
+
+
+
+
+Thank you for giving me the chance to introduce myself. I am Saurabh Pable. I was born in Chatrapati Sambhaji Nagar and raised in Pune, where I have been living for the past 15 years. I come from a neutral family; my father is a clerk, and my mother is a housewife. I have one sibling.
+
+I completed my 10th grade with 83.40% and then pursued a post-matric diploma at Government Polytechnic Pune, where I graduated with 71% in 2020. I later earned my Bachelor of Engineering degree from Savitribai Phule Pune University in 2023, achieving an 8.4 CGPA.
+
+During my third year of engineering, I developed an interest in coding, especially after studying AI & ML, where I learned multiple machine learning algorithms and started coding in Python. This interest in coding grew, and I began learning more from YouTube tutorials. After completing my degree, I took the C-CAT exam for CDAC and achieved an All India Rank of 221. I then completed my post-graduate diploma in Advanced Computing from Sunbeam Institute, where I learned a range of technologies, including C++, database technologies, Java, .NET, web programming, data structures, operating systems, software development methodologies, React.js, and Spring Boot.
+
+As part of my CDAC coursework, I developed a full-stack real estate web application using Spring Boot for the backend, MySQL for database management, and React for the frontend. I applied SOLID principles to ensure a clean, maintainable, and scalable code architecture. The application features secure user authentication, dynamic property listings, and comprehensive transaction management, with a fully responsive frontend that provides a seamless user experience across devices. I also optimized backend processes and data handling to ensure high performance and scalability.
+
+In my free time, I enjoy trekking, cooking, and playing games. I also competed in a district-level competition for my school and secured the runner-up position.
+
+
+
+
+
+Hello, my name is Saurabh Pable. I was born in Chatrapati Sambhaji Nagar and raised in Pune, where I have lived for the past 15 years. I come from a humble background; my father works as a clerk, and my mother is a housewife. I have one sibling.
+
+I completed my 10th grade with 83.40% and pursued a post-matric diploma at Government Polytechnic Pune, graduating with 71% in 2020. I then earned my Bachelor of Engineering degree from Savitribai Phule Pune University in 2023, achieving an 8.4 CGPA.
+
+During my third year of engineering, I developed a keen interest in coding, sparked by a course on AI & ML, where I learned various machine learning algorithms and began coding in Python. After completing my degree, I appeared for the C-CAT exam for CDAC, securing an All India Rank of 221.
+
+Subsequently, I completed a postgraduate diploma in Advanced Computing from Sunbeam Institute, where I gained proficiency in multiple technologies, including C++, database technologies, Java, .NET, web programming, data structures, operating systems, software development methodologies, React.js, and Spring Boot.
+
+As part of my CDAC coursework, I developed a full-stack real estate web application using Spring Boot for the backend, MySQL for database management, and React for the frontend. I applied SOLID principles to ensure a clean, maintainable, and scalable code architecture. The application features secure user authentication, dynamic property listings, and comprehensive transaction management, with a fully responsive frontend that provides a seamless user experience across devices. I also optimized backend processes and data handling to ensure high performance and scalability
